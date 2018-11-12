@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#credentials
+credentials.ini
+
+#logs
+logs/
+
+#softlink of sweepers.ini
+sweepers.ini
